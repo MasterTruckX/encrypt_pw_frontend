@@ -7,9 +7,9 @@ const Header = () => {
         <Link to='/'>Safe Words</Link>
       </div>
       <ul>
-        <li><Link to='/login'><FaSignInAlt />Login</Link></li>
-        <li><Link to='/register'><FaUser />Register</Link></li>
-        <li><Link to='/'><FaSignOutAlt />Logout</Link></li>
+        <li><Link to='/login'><FaSignInAlt /> Login</Link></li>
+        <li><Link to='/register'><FaUser /> Register</Link></li>
+        <li><Link to='/'><FaSignOutAlt /> Logout</Link></li>
       </ul>
     </header>
   )
